@@ -1,0 +1,6 @@
+{
+  "name": "SOHAG Mobile Number Tracker",
+  "description": "Professional mobile number lookup, user-authorized GPS location sharing, IP information lookup, and standalone Android Termux CLI tool.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
